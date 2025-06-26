@@ -51,6 +51,12 @@ Gemini_map=your_google_maps_api_key
 ```
 streamlit run your_script_name.py
 ```
+
+## ScreenShot
+![image_alt](https://github.com/nkbalkhande/AI_travel_planner/blob/main/Screenshot%202025-06-26%20171655.png?raw=true)
+
+![image_alt]
+
 # requirements.txt
 ```
 streamlit
