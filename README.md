@@ -55,7 +55,7 @@ streamlit run your_script_name.py
 ## ScreenShot
 ![image_alt](https://github.com/nkbalkhande/AI_travel_planner/blob/main/Screenshot%202025-06-26%20171655.png?raw=true)
 
-![image_alt]
+![image_alt](https://github.com/nkbalkhande/AI_travel_planner/blob/main/Screenshot%202025-06-26%20171718.png?raw=true)
 
 # requirements.txt
 ```
